@@ -1,0 +1,1 @@
+// Day 4-sekarang (nyata) bukannya gak nulis apa-apaan tapi lagi latihan debugging dulu, HAHAHAHA
