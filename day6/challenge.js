@@ -1,3 +1,5 @@
+// Day 6 Challenge: Async JS + Debugging logic
+
 // Soal 1: Output apa?
 console.log("A");
 
